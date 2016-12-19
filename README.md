@@ -23,7 +23,7 @@ If two players have the same ranked hands then the rank made up of the highest v
 
 Consider the following five hands dealt to two players:
 
-
+[[https://github.com/EdlaineZamora/pokerhands/blob/master/example.png?raw=true]]
 
 The file, poker.txt, contains one-thousand random hands dealt to two players. Each line of the file contains ten cards (separated by a single space): the first five are Player 1's cards and the last five are Player 2's cards. You can assume that all hands are valid (no invalid characters or repeated cards), each player's hand is in no specific order, and in each hand there is a clear winner.
 
